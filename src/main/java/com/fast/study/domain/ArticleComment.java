@@ -7,7 +7,6 @@ public class ArticleComment {
     private Long id;
     private Article article;
     private String content;
-    private String hashtag;
 
     private LocalDateTime createdAt;
     private String createdBy;
